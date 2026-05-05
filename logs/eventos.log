@@ -1,0 +1,40 @@
+[2026-04-29 16:13:48] [INFO] Inicio de ejecución del programa principal.
+[2026-04-29 16:13:48] [ERROR] Crear cliente inválido: No fue posible asignar el nombre del cliente.
+[2026-04-29 16:13:48] [INFO] Se creó la reserva R001 para el cliente Juan Pérez.
+[2026-04-29 16:13:48] [INFO] Reserva R001 confirmada correctamente con costo 173500.0.
+[2026-04-29 16:13:48] [INFO] Finalizó el intento de procesamiento de la reserva R001.
+[2026-04-29 16:13:48] [INFO] Se creó la reserva R002 para el cliente María López.
+[2026-04-29 16:13:48] [INFO] Reserva R002 confirmada correctamente con costo 69400.0.
+[2026-04-29 16:13:48] [INFO] Finalizó el intento de procesamiento de la reserva R002.
+[2026-04-29 16:13:48] [INFO] Se creó la reserva R003 para el cliente Juan Pérez.
+[2026-04-29 16:13:48] [INFO] Reserva R003 confirmada correctamente con costo 95200.0.
+[2026-04-29 16:13:48] [INFO] Finalizó el intento de procesamiento de la reserva R003.
+[2026-04-29 16:13:48] [ERROR] Crear reserva con cantidad inválida: La cantidad de la reserva debe ser mayor que cero.
+[2026-04-29 16:13:48] [INFO] Se creó la reserva R005 para el cliente María López.
+[2026-04-29 16:13:48] [ERROR] Error al procesar la reserva R005: El servicio Sala de juntas no está disponible.
+[2026-04-29 16:13:48] [INFO] Finalizó el intento de procesamiento de la reserva R005.
+[2026-04-29 16:13:48] [ERROR] Procesar reserva con servicio no disponible: El servicio Sala de juntas no está disponible.
+[2026-04-29 16:13:48] [INFO] Reserva R002 cancelada correctamente.
+[2026-04-29 16:13:48] [ERROR] Error al cancelar la reserva R002: La reserva ya estaba cancelada.
+[2026-04-29 16:13:48] [ERROR] Cancelar nuevamente la reserva R002: La reserva ya estaba cancelada.
+[2026-04-29 16:13:48] [INFO] Ejecución finalizada en main.py.
+[2026-05-03 13:04:14] [INFO] Inicio de ejecución del programa principal.
+[2026-05-03 13:04:14] [ERROR] Crear cliente inválido: No fue posible asignar el nombre del cliente.
+[2026-05-03 13:04:14] [INFO] Se creó la reserva R001 para el cliente Juan Pérez.
+[2026-05-03 13:04:14] [INFO] Reserva R001 confirmada correctamente con costo 173500.0.
+[2026-05-03 13:04:14] [INFO] Finalizó el intento de procesamiento de la reserva R001.
+[2026-05-03 13:04:14] [INFO] Se creó la reserva R002 para el cliente María López.
+[2026-05-03 13:04:14] [INFO] Reserva R002 confirmada correctamente con costo 69400.0.
+[2026-05-03 13:04:14] [INFO] Finalizó el intento de procesamiento de la reserva R002.
+[2026-05-03 13:04:14] [INFO] Se creó la reserva R003 para el cliente Juan Pérez.
+[2026-05-03 13:04:14] [INFO] Reserva R003 confirmada correctamente con costo 95200.0.
+[2026-05-03 13:04:14] [INFO] Finalizó el intento de procesamiento de la reserva R003.
+[2026-05-03 13:04:14] [ERROR] Crear reserva con cantidad inválida: La cantidad de la reserva debe ser mayor que cero.
+[2026-05-03 13:04:14] [INFO] Se creó la reserva R005 para el cliente María López.
+[2026-05-03 13:04:14] [ERROR] Error al procesar la reserva R005: El servicio Sala de juntas no está disponible.
+[2026-05-03 13:04:14] [INFO] Finalizó el intento de procesamiento de la reserva R005.
+[2026-05-03 13:04:14] [ERROR] Procesar reserva con servicio no disponible: El servicio Sala de juntas no está disponible.
+[2026-05-03 13:04:14] [INFO] Reserva R002 cancelada correctamente.
+[2026-05-03 13:04:14] [ERROR] Error al cancelar la reserva R002: La reserva ya estaba cancelada.
+[2026-05-03 13:04:14] [ERROR] Cancelar nuevamente la reserva R002: La reserva ya estaba cancelada.
+[2026-05-03 13:04:14] [INFO] Ejecución finalizada en main.py.
